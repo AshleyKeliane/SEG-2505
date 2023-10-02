@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-Ashley Tamanjong
+Serena Murielle
+=======
+Gamelle Kamga
+>>>>>>> 3062ac133f98d7a0f18de44be90cf249bf464405
 =======
 phineahs
 >>>>>>> 6c9d26e9c6494c3a4cf34ece3e2172f74cd6df96
 Gamelle Kamga
+>>>>>>> 6c9d26e9c6494c3a4cf34ece3e2172f74cd6df96
